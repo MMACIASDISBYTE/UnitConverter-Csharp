@@ -1,0 +1,17 @@
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.exe
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.deps.json
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.runtimeconfig.json
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.dll
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.pdb
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.csproj.AssemblyReference.cache
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.Form1.resources
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.csproj.GenerateResource.cache
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.AssemblyInfo.cs
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.dll
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\refint\UnitConverter.dll
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.pdb
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.genruntimeconfig.cache
+C:\Users\Mariano Macias\source\repos\UnitConverter\UnitConverter\obj\Debug\net6.0-windows\ref\UnitConverter.dll
